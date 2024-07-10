@@ -1,0 +1,9 @@
+# Site settings
+title: DOCS
+author:
+  name: Ronaldo Dantas
+  email: ronaldodantas@gmail.com
+description: "GH-Pages - Docs"
+
+# Build settings
+remote_theme: jekyll/minima
