@@ -3,7 +3,7 @@ title: DOCS
 author:
   name: Ronaldo Dantas
   email: ronaldodantas@gmail.com
-description: "GH-Pages - Docs"
+description: "Documents"
 
 # Build settings
 remote_theme: jekyll/minima
